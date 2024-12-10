@@ -1,0 +1,17 @@
+C:\Users\Vladimir\source\repos\Tyuiu.ZaharovVV.Sprint6\Tyuiu.ZaharovVV.Sprint5.Task0.V22\bin\Debug\net8.0-windows\Tyuiu.ZaharovVV.Sprint5.Task0.V22.exe
+C:\Users\Vladimir\source\repos\Tyuiu.ZaharovVV.Sprint6\Tyuiu.ZaharovVV.Sprint5.Task0.V22\bin\Debug\net8.0-windows\Tyuiu.ZaharovVV.Sprint5.Task0.V22.deps.json
+C:\Users\Vladimir\source\repos\Tyuiu.ZaharovVV.Sprint6\Tyuiu.ZaharovVV.Sprint5.Task0.V22\bin\Debug\net8.0-windows\Tyuiu.ZaharovVV.Sprint5.Task0.V22.runtimeconfig.json
+C:\Users\Vladimir\source\repos\Tyuiu.ZaharovVV.Sprint6\Tyuiu.ZaharovVV.Sprint5.Task0.V22\bin\Debug\net8.0-windows\Tyuiu.ZaharovVV.Sprint5.Task0.V22.dll
+C:\Users\Vladimir\source\repos\Tyuiu.ZaharovVV.Sprint6\Tyuiu.ZaharovVV.Sprint5.Task0.V22\bin\Debug\net8.0-windows\Tyuiu.ZaharovVV.Sprint5.Task0.V22.pdb
+C:\Users\Vladimir\source\repos\Tyuiu.ZaharovVV.Sprint6\Tyuiu.ZaharovVV.Sprint5.Task0.V22\obj\Debug\net8.0-windows\Tyuiu.ZaharovVV.Sprint5.Task0.V22.FormMain.resources
+C:\Users\Vladimir\source\repos\Tyuiu.ZaharovVV.Sprint6\Tyuiu.ZaharovVV.Sprint5.Task0.V22\obj\Debug\net8.0-windows\Tyuiu.ZaharovVV.Sprint5.Task0.V22.Properties.Resources.resources
+C:\Users\Vladimir\source\repos\Tyuiu.ZaharovVV.Sprint6\Tyuiu.ZaharovVV.Sprint5.Task0.V22\obj\Debug\net8.0-windows\Tyuiu.ZaharovVV.Sprint5.Task0.V22.csproj.GenerateResource.cache
+C:\Users\Vladimir\source\repos\Tyuiu.ZaharovVV.Sprint6\Tyuiu.ZaharovVV.Sprint5.Task0.V22\obj\Debug\net8.0-windows\Tyuiu.ZaharovVV.Sprint5.Task0.V22.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vladimir\source\repos\Tyuiu.ZaharovVV.Sprint6\Tyuiu.ZaharovVV.Sprint5.Task0.V22\obj\Debug\net8.0-windows\Tyuiu.ZaharovVV.Sprint5.Task0.V22.AssemblyInfoInputs.cache
+C:\Users\Vladimir\source\repos\Tyuiu.ZaharovVV.Sprint6\Tyuiu.ZaharovVV.Sprint5.Task0.V22\obj\Debug\net8.0-windows\Tyuiu.ZaharovVV.Sprint5.Task0.V22.AssemblyInfo.cs
+C:\Users\Vladimir\source\repos\Tyuiu.ZaharovVV.Sprint6\Tyuiu.ZaharovVV.Sprint5.Task0.V22\obj\Debug\net8.0-windows\Tyuiu.ZaharovVV.Sprint5.Task0.V22.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir\source\repos\Tyuiu.ZaharovVV.Sprint6\Tyuiu.ZaharovVV.Sprint5.Task0.V22\obj\Debug\net8.0-windows\Tyuiu.ZaharovVV.Sprint5.Task0.V22.dll
+C:\Users\Vladimir\source\repos\Tyuiu.ZaharovVV.Sprint6\Tyuiu.ZaharovVV.Sprint5.Task0.V22\obj\Debug\net8.0-windows\refint\Tyuiu.ZaharovVV.Sprint5.Task0.V22.dll
+C:\Users\Vladimir\source\repos\Tyuiu.ZaharovVV.Sprint6\Tyuiu.ZaharovVV.Sprint5.Task0.V22\obj\Debug\net8.0-windows\Tyuiu.ZaharovVV.Sprint5.Task0.V22.pdb
+C:\Users\Vladimir\source\repos\Tyuiu.ZaharovVV.Sprint6\Tyuiu.ZaharovVV.Sprint5.Task0.V22\obj\Debug\net8.0-windows\Tyuiu.ZaharovVV.Sprint5.Task0.V22.genruntimeconfig.cache
+C:\Users\Vladimir\source\repos\Tyuiu.ZaharovVV.Sprint6\Tyuiu.ZaharovVV.Sprint5.Task0.V22\obj\Debug\net8.0-windows\ref\Tyuiu.ZaharovVV.Sprint5.Task0.V22.dll
